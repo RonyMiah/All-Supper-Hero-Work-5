@@ -1,0 +1,32 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border: 2px solid rgb(250, 226, 226);
+    margin: 15px;
+    box-shadow: 10px 5px 5px rgb(255, 238, 238);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+
+.card img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card button{
+    background-color: rgb(245, 143, 159);
+    padding: 7px;
+    border: none;
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #ffff;
+}
+.card button:hover{
+    background-color: rgb(240, 100, 121);
+
+}
