@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Popular Youtube App
 
 This project was bootstrapped with [Popular Youtube](https://github.com/ProgrammingHeroWC4/the-superhero-direction-RonyMiah).
 
